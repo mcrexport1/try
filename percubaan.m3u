@@ -1,126 +1,1324 @@
-#EXTM3U
-#EXTINF:-1, == SULUK IPTV ==
-https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
-#EXTINF:-1,Suluk® → Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
-#EXTINF:-1,Suluk® → Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/04.m3u8
-#EXTINF:-1,Suluk® → Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
-#EXTINF:-1,Suluk® → Channel News Asia
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1,Suluk® → OKTO
-https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:-1,Suluk® → MYTV
-http://103.242.13.90:5555/udp/239.4.1.56:10000
-#EXTINF:-1,Suluk® → CTN
-http://103.242.13.90:5555/udp/239.4.1.57:10000
-#EXTINF:-1,Suluk® → CNC
-http://103.242.13.90:5555/udp/239.4.1.55:10000
-#EXTINF:-1,Suluk® → MTV China
-http://103.242.13.90:5555/udp/239.4.1.71:10000
-#EXTINF:-1,Suluk® → RTM1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,Suluk® → RTM2
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,Suluk® → TV3
-http://103.242.13.90:5555/udp/239.4.1.214:10000
-#EXTINF:-1,Suluk® → ASTRO SPORT
-http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,Suluk® → ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1,Suluk® → SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1,Suluk® → SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1,Suluk® → SONY TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1,Suluk® → SONY TEN 2 HD
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
-#EXTINF:-1,Suluk® → SONY TEN 3 HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:-1,Suluk® → SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
-#EXTINF:-1,Suluk® → DISCOVERY WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Suluk® → SONY MAX HD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
-#EXTINF:-1,Suluk® → TLC HD WORLD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:-1,Suluk® → SONY LE PLEX HD
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:-1,Suluk® → AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
-#EXTINF:-1,Suluk® → Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Suluk® → AXN
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:-1,Suluk® → FOX MOVIE PREMIUM
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
-#EXTINF:-1,Suluk® → FOX MOVIES 
-http://210.210.155.35/session/b5f44c4a-7dac-11e8-98cf-b82a72d63267/uq2663/h/h14/02.m3u8
-#EXTINF:-1,Suluk® → FOX ACTION MOVIES
-http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/index1.m3u8
-#EXTINF:-1,Suluk® → FOX FAMILY MOVIES
-http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index1.m3u8
-#EXTINF:-1,Suluk® → FOX LIFE
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
-#EXTINF:-1,Suluk® → KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
-#EXTINF:-1,Suluk® → THRILL
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,Suluk® → FOXLife
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1,Suluk® → KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,Suluk® → THRILL
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,Suluk® → ANIPLUS
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
-
-#EXTINF:-1,Suluk® → 电影台
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:-1,Suluk® → 台視無線台 
-https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
-#EXTINF:-1,Suluk® → CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,Suluk® → 韩-SBS
-http://123.108.164.71/etv2/phd847/playlist.m3u8
-
-#EXTINF:-1,Suluk® → TV Okey
-http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:-1,Suluk® → ASTRO GO SHOP
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
-
-#EXTINF:-1,Suluk® → SURIA
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
-
-#EXTINF:-1,Suluk® → CHANNEL 5
-https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-
-#EXTINF:-1,Suluk® → FTV UHD
-http://103.242.13.90:5555/udp/239.4.1.45:10000
-
-#EXTINF:-1,Suluk® → Fashion TV SD
-http://103.242.13.90:5555/udp/239.4.1.51:10000
-
-#EXTINF:-1,Suluk® → RT HD
-http://103.242.13.90:5555/udp/239.4.1.98:10000
-
-#EXTINF:-1,Suluk® → ASTRO AWANI
-http://lihattv.com/?play=43295
-
-#EXTINF:-1,Suluk® → TV9
-http://lihattv.com/?play=43128
-
-#EXTINF:-1,Suluk® → TV5_MONDE
-http://lihattv.com/?play=43408
-
-#EXTINF:-1,Suluk® → SETANTA
-http://103.242.13.90:5555/udp/239.4.1.132:10000
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="**==NOW HK SPORTS==**" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",**==NOW HK SPORTS==**
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571270.ts
+#EXTINF:-1 tvg-id="English - Now Sports 4K 616" tvg-name="Now HK Now Sports 4K 616" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 4K 616
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571287.ts
+#EXTINF:-1 tvg-id="English - Now Sports 4K 617" tvg-name="Now HK Now Sports 4K 617" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 4K 617
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571286.ts
+#EXTINF:-1 tvg-id="English - Now Sports 1" tvg-name="Now HK Now Sports 1" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571285.ts
+#EXTINF:-1 tvg-id="English - beIN â€“ Now Sports 2" tvg-name="Now HK Now Sports 2" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571284.ts
+#EXTINF:-1 tvg-id="English - Now Sports 3" tvg-name="Now HK Now Sports 3" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571283.ts
+#EXTINF:-1 tvg-id="English - Now Sports 4" tvg-name="Now HK Now Sports 4" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571282.ts
+#EXTINF:-1 tvg-id="English - Now Sports 5" tvg-name="Now HK Now Sports 5" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571281.ts
+#EXTINF:-1 tvg-id="English - Now Sports 6" tvg-name="Now HK Now Sports 6" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 6
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571280.ts
+#EXTINF:-1 tvg-id="English - Now Sports 7" tvg-name="Now HK Now Sports 7" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Now Sports 7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571279.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 1" tvg-name="Now HK Premier Sports 1" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571278.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 2" tvg-name="Now HK Premier Sports 2" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571277.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 3" tvg-name="Now HK Premier Sports 3" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571276.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 4" tvg-name="Now HK Premier Sports 4" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571275.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 5" tvg-name="Now HK Premier Sports 5" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571274.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 6" tvg-name="Now HK Premier Sports 6" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 6
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 7" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 8" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",Now HK Premier Sports 8
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/571271.ts
+#EXTINF:-1 tvg-id="" tvg-name="**==OPTUS SPORTS==**" tvg-logo="" group-title="EPL | OPTUS - SPARK",**==OPTUS SPORTS==**
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521412.ts
+#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="Optus 1 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 1 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521413.ts
+#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="Optus 2 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 2 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521414.ts
+#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="Optus 3 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 3 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521415.ts
+#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="Optus 4  HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 4  HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521416.ts
+#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="Optus 5  HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 5  HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521417.ts
+#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="Optus 6 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 6 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521418.ts
+#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="Optus 7 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 7 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521419.ts
+#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="Optus 8 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 8 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521420.ts
+#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="Optus 9 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 9 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521421.ts
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="Optus 10 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 10 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521422.ts
+#EXTINF:-1 tvg-id="11.OPTUS" tvg-name="Optus 11 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 11 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521423.ts
+#EXTINF:-1 tvg-id="12.OPTUS" tvg-name="Optus 12 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 12 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521424.ts
+#EXTINF:-1 tvg-id="13.OPTUS" tvg-name="Optus 13 HD" tvg-logo="" group-title="EPL | OPTUS - SPARK",Optus 13 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/523743.ts
+#EXTINF:-1 tvg-id="" tvg-name="**==SPARK SPORTS==**" tvg-logo="" group-title="EPL | OPTUS - SPARK",**==SPARK SPORTS==**
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521425.ts
+#EXTINF:-1 tvg-id="1.S" tvg-name="Spark Sports Event 1" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521426.ts
+#EXTINF:-1 tvg-id="2.S" tvg-name="Spark Sports Event 2" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521427.ts
+#EXTINF:-1 tvg-id="3.S" tvg-name="Spark Sports Event 3" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521428.ts
+#EXTINF:-1 tvg-id="4.S" tvg-name="Spark Sports Event 4" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521429.ts
+#EXTINF:-1 tvg-id="5.S" tvg-name="Spark Sports Event 5" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521430.ts
+#EXTINF:-1 tvg-id="6.S" tvg-name="Spark Sports Event 6" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 6
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521431.ts
+#EXTINF:-1 tvg-id="7.S" tvg-name="Spark Sports Event 7" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521432.ts
+#EXTINF:-1 tvg-id="8.S" tvg-name="Spark Sports Event 8" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 8
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521433.ts
+#EXTINF:-1 tvg-id="9.S" tvg-name="Spark Sports Event 9" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 9
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521434.ts
+#EXTINF:-1 tvg-id="10.S" tvg-name="Spark Sports Event 10" tvg-logo="" group-title="EPL | OPTUS - SPARK",Spark Sports Event 10
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521435.ts
+#EXTINF:-1 tvg-id="" tvg-name="**==DAZN CA==**" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",**==DAZN CA==**
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521436.ts
+#EXTINF:-1 tvg-id="1.L" tvg-name="DAZN CA 01:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 01:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521437.ts
+#EXTINF:-1 tvg-id="2.L" tvg-name="DAZN CA 02:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 02:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521438.ts
+#EXTINF:-1 tvg-id="3.L" tvg-name="DAZN CA 03:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 03:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521439.ts
+#EXTINF:-1 tvg-id="4.L" tvg-name="DAZN CA 04:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 04:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521440.ts
+#EXTINF:-1 tvg-id="5.L" tvg-name="DAZN CA 05:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 05:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521441.ts
+#EXTINF:-1 tvg-id="6.L" tvg-name="DAZN CA 06:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 06:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521442.ts
+#EXTINF:-1 tvg-id="7.L" tvg-name="DAZN CA 07:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 07:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521443.ts
+#EXTINF:-1 tvg-id="8.L" tvg-name="DAZN CA 08:" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 08:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521444.ts
+#EXTINF:-1 tvg-id="9.L" tvg-name="DAZN CA 09 HD" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 09 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521445.ts
+#EXTINF:-1 tvg-id="10.L" tvg-name="DAZN CA 10 HD" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 10 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521446.ts
+#EXTINF:-1 tvg-id="11.L" tvg-name="DAZN CA 11 HD" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 11 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521447.ts
+#EXTINF:-1 tvg-id="12.L" tvg-name="DAZN CA 12 HD" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 12 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521448.ts
+#EXTINF:-1 tvg-id="13.L" tvg-name="DAZN CA 13 HD" tvg-logo="" group-title="EPL | DAZN CA - NOW HK",DAZN CA 13 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521449.ts
+#EXTINF:-1 tvg-id="1.stan" tvg-name="Stan AU Event 1" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686428.ts
+#EXTINF:-1 tvg-id="2.stan" tvg-name="Stan AU Event 2" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686429.ts
+#EXTINF:-1 tvg-id="3.stan" tvg-name="Stan AU Event 3" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686430.ts
+#EXTINF:-1 tvg-id="4.stan" tvg-name="Stan AU Event 4" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686431.ts
+#EXTINF:-1 tvg-id="5.stan" tvg-name="Stan AU Event 5" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686432.ts
+#EXTINF:-1 tvg-id="6.stan" tvg-name="Stan AU Event 6" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 6
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686433.ts
+#EXTINF:-1 tvg-id="7.stan" tvg-name="Stan AU Event 7" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686434.ts
+#EXTINF:-1 tvg-id="8.stan" tvg-name="Stan AU Event 8" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 8
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686435.ts
+#EXTINF:-1 tvg-id="9.stan" tvg-name="Stan AU Event 9" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 9
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686436.ts
+#EXTINF:-1 tvg-id="10.stan" tvg-name="Stan AU Event 10" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 10
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686437.ts
+#EXTINF:-1 tvg-id="11.stan" tvg-name="Stan AU Event 11" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 11
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686438.ts
+#EXTINF:-1 tvg-id="12.stan" tvg-name="Stan AU Event 12" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 12
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686439.ts
+#EXTINF:-1 tvg-id="13.stan" tvg-name="Stan AU Event 13" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 13
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686440.ts
+#EXTINF:-1 tvg-id="14.stan" tvg-name="Stan AU Event 14" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 14
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686441.ts
+#EXTINF:-1 tvg-id="15.stan" tvg-name="Stan AU Event 15" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 15
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686442.ts
+#EXTINF:-1 tvg-id="16.stan" tvg-name="Stan AU Event 16" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 16
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686443.ts
+#EXTINF:-1 tvg-id="17.stan" tvg-name="Stan AU Event 17" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 17
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686444.ts
+#EXTINF:-1 tvg-id="18.stan" tvg-name="Stan AU Event 18" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 18
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686445.ts
+#EXTINF:-1 tvg-id="19.stan" tvg-name="Stan AU Event 19" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 19
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686446.ts
+#EXTINF:-1 tvg-id="20.stan" tvg-name="Stan AU Event 20" tvg-logo="" group-title="VIP | STAN SPORTS (UEFA GAMES)",Stan AU Event 20
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/686447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 01: Brighton 20:00 Crystal Palace(UK)(FHD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 01: Brighton 20:00 Crystal Palace(UK)(FHD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 02: Brighton 20:00 Crystal Palace(UK)(HD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 02: Brighton 20:00 Crystal Palace(UK)(HD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694942.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 03: Man City 12:30 Chelsea (UK) (FHD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 03: Man City 12:30 Chelsea (UK) (FHD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694943.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 04: Man City 12:30 Chelsea (UK) (HD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 04: Man City 12:30 Chelsea (UK) (HD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 05: Burnley 15:00 Leicester UK (FHD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 05: Burnley 15:00 Leicester UK (FHD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694945.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 06: Burnley 15:00 Leicester (UK) (HD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 06: Burnley 15:00 Leicester (UK) (HD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 07: Newcastle 15:00 Watford (UK)(FHD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 07: Newcastle 15:00 Watford (UK)(FHD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694947.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 08: Newcastle 15:00 Watford (UK)(HD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 08: Newcastle 15:00 Watford (UK)(HD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 09: Norwich 15:00 Everton (UK)(FHD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 09: Norwich 15:00 Everton (UK)(FHD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 10: Norwich 15:00 Everton (UK)(HD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 10: Norwich 15:00 Everton (UK)(HD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 11: Wolves 15:00 Southampton (UK)(FHD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 11: Wolves 15:00 Southampton (UK)(FHD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 12: Wolves 15:00 Southampton (UK)(HD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 12: Wolves 15:00 Southampton (UK)(HD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 13: Aston Villa 17:30 Man Utd (UK)(FHD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 13: Aston Villa 17:30 Man Utd (UK)(FHD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 14: Aston Villa 17:30 Man Utd (UK)(HD)" tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 14: Aston Villa 17:30 Man Utd (UK)(HD)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694954.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 15: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 15: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 16: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 16: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 17: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 17: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 18: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 18: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 19: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 19: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 20: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 20: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 21: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 21: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 22: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 22: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 23: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 23: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 24: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 24: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694964.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 25: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 25: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 26: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 26: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694966.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 27: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 27: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football Events 28: No Scheduled Event." tvg-logo="" group-title="UK | FOOTBALL EVENTS",Football Events 28: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 00:  Manchester City vs Chelsea | Premier League | Sat 15th 12:00PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 00:  Manchester City vs Chelsea | Premier League | Sat 15th 12:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 01:  Cremonese vs Como | Serie-B | Sat 15th 12:50PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 01:  Cremonese vs Como | Serie-B | Sat 15th 12:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 02:  Reggina vs Brescia | Serie-B | Sat 15th 12:50PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 02:  Reggina vs Brescia | Serie-B | Sat 15th 12:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 03:  FC Koeln vs Bayern Muenchen | Bundesliga | Sat 15th 2:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 03:  FC Koeln vs Bayern Muenchen | Bundesliga | Sat 15th 2:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 04:  Wolfsburg vs Hertha Berlin | Bundesliga | Sat 15th 2:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 04:  Wolfsburg vs Hertha Berlin | Bundesliga | Sat 15th 2:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 05:  Union Berlin vs Hoffenheim | Bundesliga | Sat 15th 2:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 05:  Union Berlin vs Hoffenheim | Bundesliga | Sat 15th 2:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 06:  Stuttgart vs RB Leipzig | Bundesliga | Sat 15th 2:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 06:  Stuttgart vs RB Leipzig | Bundesliga | Sat 15th 2:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 07:  Mainz 05 vs Bochum | Bundesliga | Sat 15th 2:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 07:  Mainz 05 vs Bochum | Bundesliga | Sat 15th 2:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 08:  Newcastle vs Watford | Premier League | Sat 15th 2:50PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 08:  Newcastle vs Watford | Premier League | Sat 15th 2:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 09:  Norwich vs Everton | Premier League | Sat 15th 2:50PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 09:  Norwich vs Everton | Premier League | Sat 15th 2:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695525.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 10:  Wolves vs Southampton | Premier League | Sat 15th 2:50PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 10:  Wolves vs Southampton | Premier League | Sat 15th 2:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 11: Aston Villa vs Manchester United | Premier League | Sat 15th 5:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 11: Aston Villa vs Manchester United | Premier League | Sat 15th 5:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 12: Moenchengladbach vs Leverkusen | Bundesliga | Sat 15th 5:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 12: Moenchengladbach vs Leverkusen | Bundesliga | Sat 15th 5:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 13: Hellas Verona vs AC Milan | Serie A Femminile | Sat 15th 1:20PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 13: Hellas Verona vs AC Milan | Serie A Femminile | Sat 15th 1:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695521.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 14: Benfica vs Moreirense | Liga Portugal | Sat 15th 5:50PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 14: Benfica vs Moreirense | Liga Portugal | Sat 15th 5:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 15: Feyenoord vs Vitesse | Eredivisie | Sat 15th 6:50PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 15: Feyenoord vs Vitesse | Eredivisie | Sat 15th 6:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695519.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 16: Washington Capitals at New York Islanders | National Hockey League | Sat 15th 6:55PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 16: Washington Capitals at New York Islanders | National Hockey League | Sat 15th 6:55PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695518.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 17: Club Brugge vs Sint-Truidense VV | Belgian Pro League | Sat 15th 7:35PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 17: Club Brugge vs Sint-Truidense VV | Belgian Pro League | Sat 15th 7:35PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 18: UFC Fight Night - Kattar vs Chikadze - Prelim Card | UFC | Sat 15th 8:55PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 18: UFC Fight Night - Kattar vs Chikadze - Prelim Card | UFC | Sat 15th 8:55PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mola Events 19: Las Vegas Raiders at Cincinnati Bengals | National Football League | Sat 15th 9:25PM" tvg-logo="" group-title="EPL | MOLA TV",Mola Events 19: Las Vegas Raiders at Cincinnati Bengals | National Football League | Sat 15th 9:25PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695515.ts
+#EXTINF:-1 tvg-id="" tvg-name="--------------------SPFL--------------------" tvg-logo="" group-title="UK | SPFL Scottish Clubs",--------------------SPFL--------------------
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663782.ts
+#EXTINF:-1 tvg-id="" tvg-name="RANGERS TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",RANGERS TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663784.ts
+#EXTINF:-1 tvg-id="Rangers.UK" tvg-name="Rangers (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Rangers (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521536.ts
+#EXTINF:-1 tvg-id="" tvg-name="CELTIC TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",CELTIC TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663783.ts
+#EXTINF:-1 tvg-id="CELTIC.UK" tvg-name="Celtic (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Celtic (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521531.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABERDEEN TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",ABERDEEN TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663785.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aberdeen (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Aberdeen (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dundee FC (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Dundee FC (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/572279.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUNDEE UTD TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",DUNDEE UTD TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663792.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dundee United (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Dundee United (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Falkirk FC (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Falkirk FC (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/572278.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAMILTON TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",HAMILTON TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hamilton Academical (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Hamilton Academical (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521533.ts
+#EXTINF:-1 tvg-id="" tvg-name="HEARTS TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",HEARTS TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663795.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hearts (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Hearts (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521539.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIBERNIAN TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",HIBERNIAN TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hibernian (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Hibernian (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521534.ts
+#EXTINF:-1 tvg-id="" tvg-name="KILMARNOCK TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",KILMARNOCK TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663789.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kilmarnock (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Kilmarnock (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521528.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVINGSTON TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",LIVINGSTON TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663793.ts
+#EXTINF:-1 tvg-id="" tvg-name="Livingston (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Livingston (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521535.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOTHERWELL TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",MOTHERWELL TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motherwell (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Motherwell (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521529.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARTICK THISTLE TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",PARTICK THISTLE TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663797.ts
+#EXTINF:-1 tvg-id="" tvg-name="QUEEN'S PARK TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",QUEEN'S PARK TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663796.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROSS COUNTY TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",ROSS COUNTY TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663790.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ross County (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Ross County (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521537.ts
+#EXTINF:-1 tvg-id="" tvg-name="ST JOHNSTONE TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",ST JOHNSTONE TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663787.ts
+#EXTINF:-1 tvg-id="" tvg-name="St Johnstone (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",St Johnstone (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521538.ts
+#EXTINF:-1 tvg-id="" tvg-name="ST MIRREN TV" tvg-logo="" group-title="UK | SPFL Scottish Clubs",ST MIRREN TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663791.ts
+#EXTINF:-1 tvg-id="" tvg-name="St Mirren (Backup)" tvg-logo="" group-title="UK | SPFL Scottish Clubs",St Mirren (Backup)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/521527.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPFL 1: 19:45 Patrick Th V Kilmarnock Fri 14th Jan" tvg-logo="" group-title="UK | SPFL Scottish Clubs",SPFL 1: 19:45 Patrick Th V Kilmarnock Fri 14th Jan
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/693635.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPFL 2: 15:00 Ayr V Greenock Sat 14th Jan" tvg-logo="" group-title="UK | SPFL Scottish Clubs",SPFL 2: 15:00 Ayr V Greenock Sat 14th Jan
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/693636.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPFL 3: 15:00 Inverness V Queen Of The South Sat 15th Jan" tvg-logo="" group-title="UK | SPFL Scottish Clubs",SPFL 3: 15:00 Inverness V Queen Of The South Sat 15th Jan
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/693637.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPFL 4: 15:00 Dunfermline V Hamilton  Sat 15th Jan" tvg-logo="" group-title="UK | SPFL Scottish Clubs",SPFL 4: 15:00 Dunfermline V Hamilton  Sat 15th Jan
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/693638.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPFL 5: 15:00 Raith V Arbroath Sat 15th Jan " tvg-logo="" group-title="UK | SPFL Scottish Clubs",SPFL 5: 15:00 Raith V Arbroath Sat 15th Jan 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/693639.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 00: Raith Rovers v Arbroath | on Board  |  Sat 15th 4:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 00: Raith Rovers v Arbroath | on Board  |  Sat 15th 4:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663798.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 01: Dunfermline Atheltic v Hamilton Academical | on Board  |  Sat 15th 4:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 01: Dunfermline Atheltic v Hamilton Academical | on Board  |  Sat 15th 4:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663799.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 02: Ayr United v Greenock Morton | on Board  |  Sat 15th 4:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 02: Ayr United v Greenock Morton | on Board  |  Sat 15th 4:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 03: Inverness Caledonian Thistle v Queen of the South | on Board  |  Sat 15th 4:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 03: Inverness Caledonian Thistle v Queen of the South | on Board  |  Sat 15th 4:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663801.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 04: Inverness Caledonian Thistle v Queen of the South | on Board  |  Sat 15th 4:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 04: Inverness Caledonian Thistle v Queen of the South | on Board  |  Sat 15th 4:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 05: Kilmarnock v Queen of the South | on Board  |  Sat 30th 3:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 05: Kilmarnock v Queen of the South | on Board  |  Sat 30th 3:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663803.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 06: Partick Thistle v Inverness Caledonian Thistle | on Board  |  Sat 30th 3:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 06: Partick Thistle v Inverness Caledonian Thistle | on Board  |  Sat 30th 3:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663804.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 07: Raith Rovers v Ayr United | on Board  |  Sat 30th 3:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 07: Raith Rovers v Ayr United | on Board  |  Sat 30th 3:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663805.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 08: Arbroath  v Dunfermline | on Board  |  Sat 30th 3:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 08: Arbroath  v Dunfermline | on Board  |  Sat 30th 3:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663806.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 09: Morton v Hamilton Academical | on Board  |  Sat 30th 3:00PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 09: Morton v Hamilton Academical | on Board  |  Sat 30th 3:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663807.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 10: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 10: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663808.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 11: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 11: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 13: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 13: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663810.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 13: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 13: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 14: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 14: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 15: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 15: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663813.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 16: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 16: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663814.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 17: Queen of the South vs Dundee | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 17: Queen of the South vs Dundee | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 18: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 18: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 19: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 19: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 20: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 20: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 21: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 21: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663819.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 22: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 6:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 22: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 6:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663820.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 23: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 6:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 23: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 6:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663821.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scottish Championship 24: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 6:05PM" tvg-logo="" group-title="UK | SPFL Scottish Clubs",Scottish Championship 24: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 6:05PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/663822.ts
+#EXTINF:-1 tvg-id="" tvg-name="------SET 1------" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",------SET 1------
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 01: KSW 66: Ziolkowski vs. Mankowski 5PM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 01: KSW 66: Ziolkowski vs. Mankowski 5PM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 02: UFC Fight Night: Kattar vs. Chikadze 10PM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 02: UFC Fight Night: Kattar vs. Chikadze 10PM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432904.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 03: UFC Fight Night: Kattar vs. Chikadze 10PM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 03: UFC Fight Night: Kattar vs. Chikadze 10PM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432905.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 04: UFC Fight Night: Kattar vs. Chikadze 10PM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 04: UFC Fight Night: Kattar vs. Chikadze 10PM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432906.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 05: UFC Fight Night: Kattar vs. Chikadze 10PM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 05: UFC Fight Night: Kattar vs. Chikadze 10PM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432907.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 06: Pallas Athena Womens Fighting Championship, January 15th 9PM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 06: Pallas Athena Womens Fighting Championship, January 15th 9PM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432908.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 07: GSW: Global Festival, Day 2 12AM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 07: GSW: Global Festival, Day 2 12AM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432909.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 08: OVW: Nightmare Rumble 1AM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 08: OVW: Nightmare Rumble 1AM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432910.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 09: GCW: Say You Will 2AM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 09: GCW: Say You Will 2AM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432911.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 10: Top Rank: Joe Smith Jr. vs Steve Geffrard 1.30AM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 10: Top Rank: Joe Smith Jr. vs Steve Geffrard 1.30AM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432912.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 11: Monster Energy Supercross: Round 2: Oakland 23AM GMT" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 11: Monster Energy Supercross: Round 2: Oakland 23AM GMT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432913.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 12: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 12: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 13: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 13: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 14: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 14: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 15: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 15: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 16: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 16: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 17: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 17: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432919.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 18: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 18: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432920.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 19: " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 19: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432921.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 20:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 20:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432922.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 21:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 21:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 22:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 22:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432924.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 23:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 23:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432925.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 24:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 24:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432926.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 25:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 25:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 26:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 26:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432928.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 27:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 27:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432929.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 28:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 28:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432930.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 29:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 29:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432931.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 30:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 30:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432932.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 31:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 31:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 32:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 32:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 33:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 33:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 34:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 34:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 35:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 35:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 36:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 36:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432938.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 37:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 37:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432939.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTS 38:" tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",EVENTS 38:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 39:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 39:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 40:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 40:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432942.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 41:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 41:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432943.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 42:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 42:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 43:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 43:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432945.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 44:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 44:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 45:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 45:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432947.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 46:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 46:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 47:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 47:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 48:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 48:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 49:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 49:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Events 50:  " tvg-logo="" group-title="VIP | PPV EVENTS (SET 1)",Events 50:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/432952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 01: Brighton vs Crystal Palace 20:00 (FRI)" tvg-logo="" group-title="EPL | Premier League",Live EPL 01: Brighton vs Crystal Palace 20:00 (FRI)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 02: Live EPL02: Brighton vs Crystal Palace 20:00 (FRI)" tvg-logo="" group-title="EPL | Premier League",Live EPL 02: Live EPL02: Brighton vs Crystal Palace 20:00 (FRI)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 03: Man City vs Chelsea 12:30 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 03: Man City vs Chelsea 12:30 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654586.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 04: Man City vs Chelsea 12:30 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 04: Man City vs Chelsea 12:30 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 05: Norwich vs Everton 15:00 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 05: Norwich vs Everton 15:00 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 06: Norwich vs Everton 15:00 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 06: Norwich vs Everton 15:00 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 07: Wolves vs Southampton 15:00 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 07: Wolves vs Southampton 15:00 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 08: Wolves vs Southampton 15:00 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 08: Wolves vs Southampton 15:00 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654591.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 09: Newcastle vs Watford 15:00 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 09: Newcastle vs Watford 15:00 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654592.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 10: Newcastle vs Watford 15:00 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 10: Newcastle vs Watford 15:00 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654593.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 11: Aston Villa vs Man Utd 17:30 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 11: Aston Villa vs Man Utd 17:30 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654594.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 12: Aston Villa vs Man Utd 17:30 (SAT)" tvg-logo="" group-title="EPL | Premier League",Live EPL 12: Aston Villa vs Man Utd 17:30 (SAT)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654595.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 13: West Ham vs Leeds Utd 14:00 (SUN)" tvg-logo="" group-title="EPL | Premier League",Live EPL 13: West Ham vs Leeds Utd 14:00 (SUN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654596.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 14: West Ham vs Leeds Utd 14:00 (SUN)" tvg-logo="" group-title="EPL | Premier League",Live EPL 14: West Ham vs Leeds Utd 14:00 (SUN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 15: Liverpool vs Brentford 14:00 (SUN)" tvg-logo="" group-title="EPL | Premier League",Live EPL 15: Liverpool vs Brentford 14:00 (SUN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654598.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 16: Liverpool vs Brentford 14:00 (SUN)" tvg-logo="" group-title="EPL | Premier League",Live EPL 16: Liverpool vs Brentford 14:00 (SUN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654599.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 17: Tottenham vs Arsenal 16:30 (SUN)" tvg-logo="" group-title="EPL | Premier League",Live EPL 17: Tottenham vs Arsenal 16:30 (SUN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654600.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 18: Tottenham vs Arsenal 16:30 (SUN)" tvg-logo="" group-title="EPL | Premier League",Live EPL 18: Tottenham vs Arsenal 16:30 (SUN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 19: " tvg-logo="" group-title="EPL | Premier League",Live EPL 19: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654602.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live EPL 20: " tvg-logo="" group-title="EPL | Premier League",Live EPL 20: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/654603.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 00: Waterford FC V  UCD AFC | Fri 26th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 00: Waterford FC V  UCD AFC | Fri 26th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694443.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 01:  V   | Sat 20th 2:00PM | EA Sports National Underage League" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 01:  V   | Sat 20th 2:00PM | EA Sports National Underage League
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694442.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 02: Shamrock Rovers FC V  Drogheda United FC | Fri 19th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 02: Shamrock Rovers FC V  Drogheda United FC | Fri 19th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694441.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 03: Sligo Rovers FC V  Bohemian FC | Fri 19th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 03: Sligo Rovers FC V  Bohemian FC | Fri 19th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694440.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 04: Waterford FC V  St. Patrick's Athletic FC | Fri 19th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 04: Waterford FC V  St. Patrick's Athletic FC | Fri 19th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694439.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 05: Bray Wanderers FC V  UCD AFC | Fri 19th 7:45PM | SSE Airtricity First Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 05: Bray Wanderers FC V  UCD AFC | Fri 19th 7:45PM | SSE Airtricity First Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694438.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 06:  V   | Sat 20th 2:00PM | EA Sports National Underage League" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 06:  V   | Sat 20th 2:00PM | EA Sports National Underage League
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694437.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 07:  V   | Sat 20th 2:00PM | EA Sports National Underage League" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 07:  V   | Sat 20th 2:00PM | EA Sports National Underage League
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694436.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 08:  V   | Sat 20th 2:00PM | EA Sports National Underage League" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 08:  V   | Sat 20th 2:00PM | EA Sports National Underage League
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694435.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 09: Bray Wanderers FC V  UCD AFC | Fri 19th 7:45PM | SSE Airtricity First Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 09: Bray Wanderers FC V  UCD AFC | Fri 19th 7:45PM | SSE Airtricity First Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694434.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 10: Shamrock Rovers FC V  Drogheda United FC | Fri 19th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 10: Shamrock Rovers FC V  Drogheda United FC | Fri 19th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694433.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 11: Sligo Rovers FC V  Bohemian FC | Fri 19th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 11: Sligo Rovers FC V  Bohemian FC | Fri 19th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694432.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 12: Waterford FC V  St. Patrick's Athletic FC | Fri 19th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 12: Waterford FC V  St. Patrick's Athletic FC | Fri 19th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694431.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 13: Bray Wanderers FC V  UCD AFC | Fri 19th 7:45PM | SSE Airtricity First Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 13: Bray Wanderers FC V  UCD AFC | Fri 19th 7:45PM | SSE Airtricity First Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694430.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LOI TV Fixtures 14: Waterford FC V  St. Patrick's Athletic FC | Fri 19th 7:45PM | SSE Airtricity Premier Division" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LOI TV Fixtures 14: Waterford FC V  St. Patrick's Athletic FC | Fri 19th 7:45PM | SSE Airtricity Premier Division
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694429.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOI TV Fixtures 15:" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LOI TV Fixtures 15:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694428.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOI TV Fixtures 16:" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LOI TV Fixtures 16:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694427.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOI TV Fixtures 17:" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LOI TV Fixtures 17:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694426.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOI TV Fixtures 18:" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LOI TV Fixtures 18:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694425.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOI TV Fixtures 19:" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LOI TV Fixtures 19:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694424.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LoiTV ie 1" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LoiTV ie 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664283.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LoiTV ie 2" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LoiTV ie 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664284.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LoiTV ie 3" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LoiTV ie 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664285.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LoiTV ie 4" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LoiTV ie 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664286.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LoiTV ie 5" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO", LoiTV ie 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664287.ts
+#EXTINF:-1 tvg-id="" tvg-name="LoiTV ie 6" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LoiTV ie 6
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664288.ts
+#EXTINF:-1 tvg-id="" tvg-name="LoiTV ie 7" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LoiTV ie 7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664289.ts
+#EXTINF:-1 tvg-id="" tvg-name="LoiTV ie 8" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LoiTV ie 8
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664290.ts
+#EXTINF:-1 tvg-id="" tvg-name="LoiTV ie 9" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",LoiTV ie 9
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/664291.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL01: 15:00 Carrick Rangers vs Glenavon" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL01: 15:00 Carrick Rangers vs Glenavon
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529575.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL02: 15:00 Larne vs Dungannon Swifts" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL02: 15:00 Larne vs Dungannon Swifts
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529574.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL03: 15:00 Linfield vs Ballymena United" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL03: 15:00 Linfield vs Ballymena United
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529573.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL04:  15:00 Portadown vs Coleraine" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL04:  15:00 Portadown vs Coleraine
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529572.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL05: 15:00 Warrenpoint Town vs Crusaders" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL05: 15:00 Warrenpoint Town vs Crusaders
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529571.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL06: " tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL06: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529570.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL07: " tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL07: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529569.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL08: " tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL08: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529568.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL09: " tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL09: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529567.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIFL10: " tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",NIFL10: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/529566.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: WWE NETWORK FHD" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV: WWE NETWORK FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/132271.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: WWE NETWORK FHD BU" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV: WWE NETWORK FHD BU
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/132277.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== SET 1 ====" tvg-logo="" group-title="VIP | FITE TV",==== SET 1 ====
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671612.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 00 HD: FITE 24/7 " tvg-logo="" group-title="VIP | FITE TV",Fite TV 00 HD: FITE 24/7 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 01 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 01 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 02 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 02 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 03 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 03 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 04 HD: " tvg-logo="" group-title="VIP | FITE TV",Fite TV 04 HD: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666056.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 05 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 05 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 06: HD " tvg-logo="" group-title="VIP | FITE TV",Fite TV 06: HD 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 07 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 07 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 08 HD: " tvg-logo="" group-title="VIP | FITE TV",Fite TV 08 HD: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 09 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 09 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 10 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 10 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 11 HD: " tvg-logo="" group-title="VIP | FITE TV",Fite TV 11 HD: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 12 HD:  " tvg-logo="" group-title="VIP | FITE TV",Fite TV 12 HD:  
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666048.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== SET 2 ====" tvg-logo="" group-title="VIP | FITE TV",==== SET 2 ====
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV 24/7" tvg-logo="" group-title="VIP | FITE TV",Fite TV 24/7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV Event 01: " tvg-logo="" group-title="VIP | FITE TV",Fite TV Event 01: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671615.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV Event 02: " tvg-logo="" group-title="VIP | FITE TV",Fite TV Event 02: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV Event 03: " tvg-logo="" group-title="VIP | FITE TV",Fite TV Event 03: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV Event 04: " tvg-logo="" group-title="VIP | FITE TV",Fite TV Event 04: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671618.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV Event 05: " tvg-logo="" group-title="VIP | FITE TV",Fite TV Event 05: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV Event 06: " tvg-logo="" group-title="VIP | FITE TV",Fite TV Event 06: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671620.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fite TV Event 07: " tvg-logo="" group-title="VIP | FITE TV",Fite TV Event 07: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671621.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 24/7" tvg-logo="" group-title="VIP | UFC EVENTS",UFC 24/7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/282411.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FIGHT PASS FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/221931.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass (A)" tvg-logo="" group-title="VIP | UFC EVENTS",UFC Fight Pass (A)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672191.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS BACKUP" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FIGHT PASS BACKUP
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/221932.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== SET 1 ====" tvg-logo="" group-title="VIP | UFC EVENTS",==== SET 1 ====
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677940.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677942.ts
+#EXTINF:-1 tvg-id="1.ufc" tvg-name="UFC FHD Event 1" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FHD Event 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677943.ts
+#EXTINF:-1 tvg-id="2.ufc" tvg-name="UFC FHD Event 2" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FHD Event 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677944.ts
+#EXTINF:-1 tvg-id="3.ufc" tvg-name="UFC FHD Event 3" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FHD Event 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677945.ts
+#EXTINF:-1 tvg-id="4.ufc" tvg-name="UFC FHD Event 4" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FHD Event 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677946.ts
+#EXTINF:-1 tvg-id="5.ufc" tvg-name="UFC FHD Event 5" tvg-logo="" group-title="VIP | UFC EVENTS",UFC FHD Event 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677947.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== SET 2 ====" tvg-logo="" group-title="VIP | UFC EVENTS",==== SET 2 ====
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/677941.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 01: Fury FC 55 | Sun 19 Dec 2021 22:30" tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 01: Fury FC 55 | Sun 19 Dec 2021 22:30
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672192.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 02: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 02: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672193.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 03: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 03: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672194.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 04: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 04: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672195.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 05: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 05: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672196.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 06: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 06: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672197.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 07: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 07: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672198.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 08: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 08: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672199.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 09: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 09: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672200.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Events 10: No Scheduled Event." tvg-logo="" group-title="VIP | UFC EVENTS",UFC Events 10: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/672201.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 01: MMA TV" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 01: MMA TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695805.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 02: hard knocks" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 02: hard knocks
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695806.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 03: ROH TV" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 03: ROH TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695807.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 04: IMPACT! Wrestling" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 04: IMPACT! Wrestling
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695808.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 05: Sling PPV1 (EN)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 05: Sling PPV1 (EN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695809.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 06: Sling PPV1 (ES)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 06: Sling PPV1 (ES)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695810.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 07: Sling PPV2 (EN)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 07: Sling PPV2 (EN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695811.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 08: Sling PPV2 (ES)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 08: Sling PPV2 (ES)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695812.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 09: Sling PPV3 (EN)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 09: Sling PPV3 (EN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695813.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 10: Sling PPV3 (ES)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 10: Sling PPV3 (ES)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695814.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 11: Sling PPV4 (EN)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 11: Sling PPV4 (EN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695815.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 12: Sling PPV4 (ES)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 12: Sling PPV4 (ES)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695816.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 13: Sling PPV5 (EN)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 13: Sling PPV5 (EN)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695817.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 14: Sling PPV5 (ES)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 14: Sling PPV5 (ES)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695818.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 15: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 15: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695819.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 16: World Championship Snowmobile Derby @ 12:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 16: World Championship Snowmobile Derby @ 12:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695820.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 17: Theisens Snocross National @ 02:45 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 17: Theisens Snocross National @ 02:45 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695821.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 18: IMCA Winter Nationals Night 7 @ 03:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 18: IMCA Winter Nationals Night 7 @ 03:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695822.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 19: Lucas Oil Chili Bowl Nationals @ 05:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 19: Lucas Oil Chili Bowl Nationals @ 05:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695823.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 20: Wild Wild West Shootout Late Model @ 06:30 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 20: Wild Wild West Shootout Late Model @ 06:30 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695824.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 21: GSW Global Festival Day 1 @ 07:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 21: GSW Global Festival Day 1 @ 07:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695825.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 22: GCW Most Notorious @ 08:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 22: GCW Most Notorious @ 08:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695826.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 23: Dynasty Combat Sports New Years Knockouts @ 08:30 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 23: Dynasty Combat Sports New Years Knockouts @ 08:30 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695827.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 24: LFA 121 @ 09:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 24: LFA 121 @ 09:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695828.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 25: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 25: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695829.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 26: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 26: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695830.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 27: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 27: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695831.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 28: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 28: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695832.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 29: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 29: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695833.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 30: GBBU Champion Boxing Bailey v Hudson @ 01:30 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 30: GBBU Champion Boxing Bailey v Hudson @ 01:30 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695834.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 31: USAC Jason Leffler Memorial Late Model @ 04:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 31: USAC Jason Leffler Memorial Late Model @ 04:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695835.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 32: Tarps Off Fight Club 1 Brawl by the Falls @ 06:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 32: Tarps Off Fight Club 1 Brawl by the Falls @ 06:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695836.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 33: IMPACT Throwback Throwdown 2 @ 08:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 33: IMPACT Throwback Throwdown 2 @ 08:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695837.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 34: NJPW Strong @ 08:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 34: NJPW Strong @ 08:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695838.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 35: Lockdown Mania @ 09:30 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 35: Lockdown Mania @ 09:30 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695839.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 36: PWA x MCW Worlds Collide @ 10:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 36: PWA x MCW Worlds Collide @ 10:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695840.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 37: URLtv Smack Volume 9 @ 06:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 37: URLtv Smack Volume 9 @ 06:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695841.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 38: BKFC Thailand Chang v Soleimani @ 08:00 PM" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 38: BKFC Thailand Chang v Soleimani @ 08:00 PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695842.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 39: Boxing: Paul v Woodley 2  @ 09:00 PM (ESPANOL)" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 39: Boxing: Paul v Woodley 2  @ 09:00 PM (ESPANOL)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695843.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 40: Bad to the Bone MMA" tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 40: Bad to the Bone MMA
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695844.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 41: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 41: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695845.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 42: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 42: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695846.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 43: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 43: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695847.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 44: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 44: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695848.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 45: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 45: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695849.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 47: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 47: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695850.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 46: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 46: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695851.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV Events 48: No Scheduled Event." tvg-logo="" group-title="VIP | PPV EVENTS (SET 2)",PPV Events 48: No Scheduled Event.
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695852.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 00: Austin Stacks V St. Finbarrs | AIB Munster Club Football Championship | 13:15:00 | Sunday 16th Jan" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 00: Austin Stacks V St. Finbarrs | AIB Munster Club Football Championship | 13:15:00 | Sunday 16th Jan
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695998.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 01: Derrygonnelly Harps V Kilcoo | AIB Ulster Club Football Championship | 15:15:00 | Sunday 16th Jan" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 01: Derrygonnelly Harps V Kilcoo | AIB Ulster Club Football Championship | 15:15:00 | Sunday 16th Jan
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695997.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 02: Ballygunner V Kilmallock | AIB Munster Club Hurling Championship | 14:55:00 | Sunday 9th Jan" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 02: Ballygunner V Kilmallock | AIB Munster Club Hurling Championship | 14:55:00 | Sunday 9th Jan
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695996.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 03: Clough Ballacolla V Ballyhale Shamrocks | AIB Leinster Club Hurling Championship | 12:45:00 | Sunday 19th Dec" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 03: Clough Ballacolla V Ballyhale Shamrocks | AIB Leinster Club Hurling Championship | 12:45:00 | Sunday 19th Dec
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695995.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 04: Kilcoo V Glen | AIB Ulster Club Football Championship | 15:45:00 | Sunday 19th Dec" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 04: Kilcoo V Glen | AIB Ulster Club Football Championship | 15:45:00 | Sunday 19th Dec
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695994.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 05 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 05 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695993.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 06 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 06 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695992.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 07 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 07 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695991.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 08 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 08 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695990.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 09 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 09 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695989.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 10 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 10 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695988.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 11 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 11 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695987.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 12 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 12 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695986.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 13 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 13 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695985.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 14 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 14 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695984.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 15 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 15 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695983.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 16 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 16 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695982.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 17 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 17 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695981.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 18 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 18 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695980.ts
+#EXTINF:-1 tvg-id="" tvg-name="GaaGo Fixtures 19 :" tvg-logo="" group-title="IRE | NIFL- LOI - GAAGO",GaaGo Fixtures 19 :
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/695979.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 19:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 19:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697576.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 18:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 18:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697577.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 17:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 17:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697578.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 16:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 16:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697579.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 15:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 15:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697580.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 14:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 14:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697581.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 13:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 13:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697582.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 12:" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 12:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697583.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 11: Ulster GAA BOI Dr. McKenna Cup Rd 2, Down v Antrim |  Tue 11th 8:10PM | ended" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 11: Ulster GAA BOI Dr. McKenna Cup Rd 2, Down v Antrim |  Tue 11th 8:10PM | ended
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697584.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 10: Ulster GAA BOI Dr. McKenna Cup Rd 2 Cavan v Tyrone |  Tue 11th 8:10PM | ended" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 10: Ulster GAA BOI Dr. McKenna Cup Rd 2 Cavan v Tyrone |  Tue 11th 8:10PM | ended
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697585.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 09: LEINSTER GAA O'Byrne Cup - Dublin v Louth |  Wed 12th 7:25PM | ended" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 09: LEINSTER GAA O'Byrne Cup - Dublin v Louth |  Wed 12th 7:25PM | ended
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697586.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 08: LEINSTER GAA O'Byrne Cup - Meath v Wexford |  Sat 15th 4:55PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 08: LEINSTER GAA O'Byrne Cup - Meath v Wexford |  Sat 15th 4:55PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697587.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 07: LEINSTER GAA O'Byrne Cup - Longford v Dublin |  Sat 15th 1:55PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 07: LEINSTER GAA O'Byrne Cup - Longford v Dublin |  Sat 15th 1:55PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697588.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 06: ULSTER GAA BOI Dr McKenna Cup - Tyrone v Armagh |  Sat 15th 1:25PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 06: ULSTER GAA BOI Dr McKenna Cup - Tyrone v Armagh |  Sat 15th 1:25PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697589.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 05: LEINSTER JFC FINAL - Kilcullen GFC v Clonbullogue |  Sat 15th 12:55PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 05: LEINSTER JFC FINAL - Kilcullen GFC v Clonbullogue |  Sat 15th 12:55PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697590.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 04: LEINSTER GAA Walsh Cup - Dublin v Galway |  Sun 16th 1:55PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 04: LEINSTER GAA Walsh Cup - Dublin v Galway |  Sun 16th 1:55PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697591.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 03: LEINSTER GAA Walsh Cup - Offaly v Antrim |  Sun 16th 1:55PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 03: LEINSTER GAA Walsh Cup - Offaly v Antrim |  Sun 16th 1:55PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697592.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 02: LEINSTER IHC Final - Naas v Oylegate Glenbrien |  Sun 16th 12:55PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 02: LEINSTER IHC Final - Naas v Oylegate Glenbrien |  Sun 16th 12:55PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697593.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 01: LEINSTER GAA IFC Final - Trim v Clara |  Sun 16th 12:55PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 01: LEINSTER GAA IFC Final - Trim v Clara |  Sun 16th 12:55PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697594.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeoSport 00: ULSTER JFC Twinning Final - Denn v St Brendan's |  Sun 16th 12:40PM | pending" tvg-logo="" group-title="IRE | BeoSport GAA",BeoSport 00: ULSTER JFC Twinning Final - Denn v St Brendan's |  Sun 16th 12:40PM | pending
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/697595.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS One" tvg-logo="" group-title="UK | Betting Channels",UK: SIS One
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696313.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS Two" tvg-logo="" group-title="UK | Betting Channels",UK: SIS Two
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696314.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS Racing" tvg-logo="" group-title="UK | Betting Channels",UK: SIS Racing
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696315.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ladbrokes TV 1" tvg-logo="" group-title="UK | Betting Channels",UK: Ladbrokes TV 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696316.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ladbrokes TV 2" tvg-logo="" group-title="UK | Betting Channels",UK: Ladbrokes TV 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696317.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ladbrokes TV 3" tvg-logo="" group-title="UK | Betting Channels",UK: Ladbrokes TV 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696318.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Coral TV 1" tvg-logo="" group-title="UK | Betting Channels",UK: Coral TV 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696319.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Coral TV 2" tvg-logo="" group-title="UK | Betting Channels",UK: Coral TV 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696320.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Paddy Power TV 1" tvg-logo="" group-title="UK | Betting Channels",UK: Paddy Power TV 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696321.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Paddy Power TV 2" tvg-logo="" group-title="UK | Betting Channels",UK: Paddy Power TV 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696610.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Paddy Power TV 3" tvg-logo="" group-title="UK | Betting Channels",UK: Paddy Power TV 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696322.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill BTV" tvg-logo="" group-title="UK | Betting Channels",UK: William Hill BTV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696323.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill TV 1" tvg-logo="" group-title="UK | Betting Channels",UK: William Hill TV 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696324.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill TV 2" tvg-logo="" group-title="UK | Betting Channels",UK: William Hill TV 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696325.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Betfred TV" tvg-logo="" group-title="UK | Betting Channels",UK: Betfred TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696326.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 01:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 01:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666155.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 02:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 02:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666156.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 03: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 03: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666157.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 04:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 04:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666158.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 05:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 05:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666159.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 06: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 06: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666160.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 07:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 07:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666161.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 08: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 08: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666162.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 09:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 09:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666163.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 10: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 10: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666164.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 11: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 11: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666165.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 12: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 12: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666166.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 13: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 13: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666167.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 14: " tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 14: 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666168.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 15:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 15:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666169.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 16:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 16:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666170.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 17:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 17:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666171.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 18:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 18:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666172.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 19:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 19:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666173.ts
+#EXTINF:-1 tvg-id="" tvg-name="FA PLAYER 20:" tvg-logo="" group-title="UK | FA PLAYER (WSL)",FA PLAYER 20:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/666174.ts
+#EXTINF:-1 tvg-id="" tvg-name="â€¢â—â˜…--- ES FOOTTERS (Game Time ONLY) ----â˜…â—â€¢" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",â€¢â—â˜…--- ES FOOTTERS (Game Time ONLY) ----â˜…â—â€¢
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669164.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 1 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 1 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669165.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 2 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 2 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669166.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 3 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 3 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669167.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 4 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 4 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669168.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 5 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 5 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669169.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 6 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 6 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669170.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 7 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 7 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669171.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 8 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 8 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669172.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 9 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 9 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669173.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 10 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 10 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669174.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 11 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 11 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669175.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 12 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 12 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669176.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 13 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 13 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669177.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 14 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 14 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669178.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 15 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 15 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669179.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 16 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 16 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669180.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 17 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 17 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669181.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 18 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 18 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669182.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 19 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 19 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669183.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 20 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 20 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669184.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 21 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 21 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669185.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 22 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 22 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669186.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 23 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 23 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669187.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 24 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 24 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669188.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters 25 FHD" tvg-logo="" group-title="VIP | ES FOOTTERS (Bundesliga & More)",ES: Footters 25 FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/669189.ts
+#EXTINF:-1 tvg-id="" tvg-name="===== F1 TV SET 1 =====" tvg-logo="" group-title="VIP | F1 TV (Events Only)",===== F1 TV SET 1 =====
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694524.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV MAIN SCREEN" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 TV MAIN SCREEN
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694525.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 PIT LANE" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 PIT LANE
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694526.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TRACKER" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 TRACKER
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694527.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 DATA" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 DATA
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694528.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 ALONSO ALPINE" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 ALONSO ALPINE
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694529.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 BOTTAS MERCEDES" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 BOTTAS MERCEDES
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694530.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 GASLY ALPHATAURI" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 GASLY ALPHATAURI
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694531.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 GIOVINAZZI ALFA ROMEO RACING" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 GIOVINAZZI ALFA ROMEO RACING
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694532.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 HAMILTON MERCEDES" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 HAMILTON MERCEDES
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694533.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 LATIFI WILLIAMS" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 LATIFI WILLIAMS
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694534.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 LECLERC FERRARI" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 LECLERC FERRARI
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694535.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 MAZEPIN HAAS F1 TEAM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 MAZEPIN HAAS F1 TEAM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694536.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 MSC SCHUMACHER HAAS F1 TEAM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 MSC SCHUMACHER HAAS F1 TEAM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694537.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 NORRIS MCLAREN" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 NORRIS MCLAREN
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694538.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 OCON ALPINE" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 OCON ALPINE
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694539.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 PEREZ REDBULL RACING" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 PEREZ REDBULL RACING
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694540.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 RAIKKONEN ALFA ROMEO RACING" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 RAIKKONEN ALFA ROMEO RACING
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694541.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 RICCIARDO MCLAREN" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 RICCIARDO MCLAREN
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694542.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 RUSSELL WILLIAMS" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 RUSSELL WILLIAMS
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694543.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 SAINZ FERRARI" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 SAINZ FERRARI
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694544.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 STROLL ASTON MARTIN" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 STROLL ASTON MARTIN
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694545.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TSUNODA ALPHA TAURI" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 TSUNODA ALPHA TAURI
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694546.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 VERSTAPPEN RED BULL RACING" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 VERSTAPPEN RED BULL RACING
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694547.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 VETTEL ASTON MARTIN" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 VETTEL ASTON MARTIN
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694548.ts
+#EXTINF:-1 tvg-id="" tvg-name="===== F1 TV SET 2 =====" tvg-logo="" group-title="VIP | F1 TV (Events Only)",===== F1 TV SET 2 =====
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694549.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Saudi Arabia GP - Qualifying | Sat 4th 5:00PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Saudi Arabia GP - Qualifying | Sat 4th 5:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671636.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Saudi Arabia GP - F2 Sprint Race 2 | Sat 4th 6:40PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Saudi Arabia GP - F2 Sprint Race 2 | Sat 4th 6:40PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671637.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Saudi Arabia GP - F2 Feature Race | Sun 5th 2:25PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Saudi Arabia GP - F2 Feature Race | Sun 5th 2:25PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671638.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Pre-Race Show - Saudi Arabia | Sun 5th 4:30PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: Pre-Race Show - Saudi Arabia | Sun 5th 4:30PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671639.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Saudi Arabia GP - Practice 3 | Sat 4th 2:00PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Saudi Arabia GP - Practice 3 | Sat 4th 2:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671640.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Post-Race Show Gran Premio Dâ€™italia | Sun 12th 5:00PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: Post-Race Show Gran Premio Dâ€™italia | Sun 12th 5:00PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671641.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia F2 Practice | Fri 10th 11:20AM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia F2 Practice | Fri 10th 11:20AM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671642.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia F2 Qualifying | Fri 10th 4:50PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia F2 Qualifying | Fri 10th 4:50PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671643.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia F2 Sprint Race 1 | Sat 11th 8:50AM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia F2 Sprint Race 1 | Sat 11th 8:50AM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671644.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia F2 Sprint Race 2 | Sat 11th 2:45PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia F2 Sprint Race 2 | Sat 11th 2:45PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671645.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia F2 Feature Race | Sun 12th 10:25AM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia F2 Feature Race | Sun 12th 10:25AM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671646.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia Supercup Practice | Fri 10th 12:30PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia Supercup Practice | Fri 10th 12:30PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671647.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia Supercup Qualifying | Sat 11th 10:25AM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia Supercup Qualifying | Sat 11th 10:25AM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671648.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia Supercup Race 1 | Sat 11th 6:20PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia Supercup Race 1 | Sat 11th 6:20PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671649.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: 2021 Gran Premio Dâ€™italia Supercup Race 2 | Sun 12th 12:30PM" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV: 2021 Gran Premio Dâ€™italia Supercup Race 2 | Sun 12th 12:30PM
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671650.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Sebastian Vettel (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Sebastian Vettel (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671651.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV:  Data Channel (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV:  Data Channel (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671652.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV:  Driver Tracker Channel (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV:  Driver Tracker Channel (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671653.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV:  Pit Lane Channel (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV:  Pit Lane Channel (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671654.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Nicholas Latifi (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Nicholas Latifi (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671655.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Nikita Mazepin (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Nikita Mazepin (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671656.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Yuki Tsunoda (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Yuki Tsunoda (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671657.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Mick Schumacher (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Mick Schumacher (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671658.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Max Verstappen (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Max Verstappen (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671659.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Charles Leclerc (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Charles Leclerc (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671660.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Fernando Alonso (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Fernando Alonso (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671661.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Esteban Ocon (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Esteban Ocon (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671662.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: George Russell (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: George Russell (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671663.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Carlos Sainz (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Carlos Sainz (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671664.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Kimi RÃ¤ikkÃ¶nen (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Kimi RÃ¤ikkÃ¶nen (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671665.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV: Daniel Ricciardo (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1 TV: Daniel Ricciardo (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671666.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Valtteri Bottas (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Valtteri Bottas (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671667.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Lance Stroll (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Lance Stroll (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671668.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Lando Norris (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Lando Norris (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671669.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Pierre Gasly (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Pierre Gasly (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671670.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Sergio Perez (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Sergio Perez (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671671.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Antonio Giovinazzi (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Antonio Giovinazzi (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671672.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: Lewis Hamilton (Events Only)" tvg-logo="" group-title="VIP | F1 TV (Events Only)",F1TV Cams: Lewis Hamilton (Events Only)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/671673.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 00: India U19 V South Africa U19 | ICC Under 19 World Cup 2022 | Providence Stadium, Guyana Saturday, 15th January 1:00pm - 10:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 00: India U19 V South Africa U19 | ICC Under 19 World Cup 2022 | Providence Stadium, Guyana Saturday, 15th January 1:00pm - 10:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694928.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 01: Melbourne Stars V Brisbane Heat | Big Bash League 2021-22 | Melbourne Cricket Ground, Melbourne Sunday, 16th January 8:15am - 1:30pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 01: Melbourne Stars V Brisbane Heat | Big Bash League 2021-22 | Melbourne Cricket Ground, Melbourne Sunday, 16th January 8:15am - 1:30pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694927.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 02: Sri Lanka V Zimbabwe | Zimbabwe tour of Sri Lanka 2022 | Pallekele International Cricket Stadium, Pallekele Sunday, 16th January 9:00am - 6:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 02: Sri Lanka V Zimbabwe | Zimbabwe tour of Sri Lanka 2022 | Pallekele International Cricket Stadium, Pallekele Sunday, 16th January 9:00am - 6:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694926.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 03: Bangladesh U19 V England U19 | ICC Under 19 World Cup 2022 | Warner Park, Basseterre, St Kitts Sunday, 16th January 1:00pm - 10:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 03: Bangladesh U19 V England U19 | ICC Under 19 World Cup 2022 | Warner Park, Basseterre, St Kitts Sunday, 16th January 1:00pm - 10:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694925.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 04: Adelaide Strikers V Sydney Sixers | Big Bash League 2021-22 | Adelaide Oval, Adelaide Monday, 17th January 6:05am - 1:30pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 04: Adelaide Strikers V Sydney Sixers | Big Bash League 2021-22 | Adelaide Oval, Adelaide Monday, 17th January 6:05am - 1:30pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694924.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 05: Hobart Hurricanes V Melbourne Renegades | Big Bash League 2021-22 | Bellerive Oval, Hobart Monday, 17th January 9:15am - 2:30pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 05: Hobart Hurricanes V Melbourne Renegades | Big Bash League 2021-22 | Bellerive Oval, Hobart Monday, 17th January 9:15am - 2:30pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694923.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 06: West Indies U19 V Scotland U19 | ICC Under 19 World Cup 2022 | Warner Park, Basseterre, St Kitts Monday, 17th January 1:00pm - 10:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 06: West Indies U19 V Scotland U19 | ICC Under 19 World Cup 2022 | Warner Park, Basseterre, St Kitts Monday, 17th January 1:00pm - 10:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694922.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 07: Brisbane Heat V Perth Scorchers | Big Bash League 2021-22 | The Gabba, Brisbane Tuesday, 18th January 8:15am - 1:30pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 07: Brisbane Heat V Perth Scorchers | Big Bash League 2021-22 | The Gabba, Brisbane Tuesday, 18th January 8:15am - 1:30pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694921.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 08: Sri Lanka V Zimbabwe | Zimbabwe tour of Sri Lanka 2022 | Pallekele International Cricket Stadium, Pallekele Tuesday, 18th January 9:00am - 6:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 08: Sri Lanka V Zimbabwe | Zimbabwe tour of Sri Lanka 2022 | Pallekele International Cricket Stadium, Pallekele Tuesday, 18th January 9:00am - 6:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694920.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 09: England U19 V Canada U19 | ICC Under 19 World Cup 2022 | Warner Park, Basseterre, St Kitts Tuesday, 18th January 1:00pm - 10:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 09: England U19 V Canada U19 | ICC Under 19 World Cup 2022 | Warner Park, Basseterre, St Kitts Tuesday, 18th January 1:00pm - 10:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694919.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 10: Brisbane Heat V Sydney Sixers | Big Bash League 2021-22 | The Gabba, Brisbane Wednesday, 19th January 2:05am - 7:30am " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 10: Brisbane Heat V Sydney Sixers | Big Bash League 2021-22 | The Gabba, Brisbane Wednesday, 19th January 2:05am - 7:30am 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694918.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 11: Sydney Thunder V Melbourne Renegades | Big Bash League 2021-22 | Sydney Showground Stadium, Sydney Wednesday, 19th January 5:10am - 10:40am " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 11: Sydney Thunder V Melbourne Renegades | Big Bash League 2021-22 | Sydney Showground Stadium, Sydney Wednesday, 19th January 5:10am - 10:40am 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694917.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 12: South Africa V India | India tour of South Africa 2021-22 | Boland Park, Paarl Wednesday, 19th January 8:30am - 5:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 12: South Africa V India | India tour of South Africa 2021-22 | Boland Park, Paarl Wednesday, 19th January 8:30am - 5:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694916.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 13: Melbourne Stars V Hobart Hurricanes | Big Bash League 2021-22 | Melbourne Cricket Ground, Melbourne Wednesday, 19th January 8:50am - 1:40pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 13: Melbourne Stars V Hobart Hurricanes | Big Bash League 2021-22 | Melbourne Cricket Ground, Melbourne Wednesday, 19th January 8:50am - 1:40pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694915.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 14: India U19 V Ireland U19 | ICC Under 19 World Cup 2022 | Brian Lara Stadium, Tarouba, Trinidad Wednesday, 19th January 1:00pm - 10:00pm " tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 14: India U19 V Ireland U19 | ICC Under 19 World Cup 2022 | Brian Lara Stadium, Tarouba, Trinidad Wednesday, 19th January 1:00pm - 10:00pm 
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Willow Fixtures 15:" tvg-logo="" group-title="VIP | Willow TV",Willow Fixtures 15:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694913.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 16:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 16:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694912.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 17:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 17:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694911.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 18:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 18:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694910.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 19:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 19:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694909.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 20:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 20:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694908.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 21:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 21:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694907.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 22:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 22:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694906.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 23:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 23:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694905.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Willow Fixtures 24:" tvg-logo="" group-title="VIP | Willow TV", Willow Fixtures 24:
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694904.ts
+#EXTINF:-1 tvg-id="BOXNAUK" tvg-name="UK: Box Nation HD" tvg-logo="http://fanc.tmsimg.com/assets/s105686_ll_h3_aa.png" group-title="UK | Other Sports",UK: Box Nation HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696480.ts
+#EXTINF:-1 tvg-id="PDC1.UK" tvg-name="UK: PDC Darts 1 (Only Live for Events)" tvg-logo="" group-title="UK | Other Sports",UK: PDC Darts 1 (Only Live for Events)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696481.ts
+#EXTINF:-1 tvg-id="PDC2.UK" tvg-name="UK: PDC Darts 2 (Only Live for Events)" tvg-logo="" group-title="UK | Other Sports",UK: PDC Darts 2 (Only Live for Events)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696482.ts
+#EXTINF:-1 tvg-id="ESUK1HD" tvg-name="UK: Eurosport 1 HD (1080P)" tvg-logo="http://fanc.tmsimg.com/assets/s60821_ll_h3_ab.png" group-title="UK | Other Sports",UK: Eurosport 1 HD (1080P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696483.ts
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s18337_ll_h3_aa.png" group-title="UK | Other Sports",UK: Eurosport 1 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696484.ts
+#EXTINF:-1 tvg-id="ESUK2HD" tvg-name="UK: Eurosport 2 HD (1080P)" tvg-logo="http://fanc.tmsimg.com/assets/s79652_ll_h3_aa.png" group-title="UK | Other Sports",UK: Eurosport 2 HD (1080P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696485.ts
+#EXTINF:-1 tvg-id="ESUK2" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s27413_ll_h3_aa.png" group-title="UK | Other Sports",UK: Eurosport 2 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696486.ts
+#EXTINF:-1 tvg-id="ESUK2" tvg-name="UK: Eurosport 2" tvg-logo="http://fanc.tmsimg.com/assets/s27413_ll_h3_aa.png" group-title="UK | Other Sports",UK: Eurosport 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696487.ts
+#EXTINF:-1 tvg-id="RACING" tvg-name="UK: Racing TV HD (1080P)" tvg-logo="http://fanc.tmsimg.com/assets/s24226_ll_h3_aa.png" group-title="UK | Other Sports",UK: Racing TV HD (1080P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696488.ts
+#EXTINF:-1 tvg-id="RACING" tvg-name="UK: Racing TV HD (720P)" tvg-logo="http://fanc.tmsimg.com/assets/s24226_ll_h3_aa.png" group-title="UK | Other Sports",UK: Racing TV HD (720P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696489.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK: MUTV HD" tvg-logo="" group-title="UK | Other Sports",UK: MUTV HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696490.ts
+#EXTINF:-1 tvg-id="LFCEUHD" tvg-name="UK: LiverpoolFCTV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91169_ll_h3_aa.png" group-title="UK | Other Sports",UK: LiverpoolFCTV HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696491.ts
+#EXTINF:-1 tvg-id="LIGATV" tvg-name="UK: LaLiga TV HD (1080P)" tvg-logo="http://fanc.tmsimg.com/assets/s113038_ll_h3_aa.png" group-title="UK | Other Sports",UK: LaLiga TV HD (1080P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696492.ts
+#EXTINF:-1 tvg-id="PRMSHDV" tvg-name="UK: Premier Sports 1 HD (1080P)" tvg-logo="http://fanc.tmsimg.com/assets/s105884_ll_h3_aa.png" group-title="UK | Other Sports",UK: Premier Sports 1 HD (1080P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696493.ts
+#EXTINF:-1 tvg-id="PRMSHDV" tvg-name="UK: Premier Sports 1" tvg-logo="http://fanc.tmsimg.com/assets/s105884_ll_h3_aa.png" group-title="UK | Other Sports",UK: Premier Sports 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696494.ts
+#EXTINF:-1 tvg-id="PRSP2UK" tvg-name="UK: Premier Sports 2 HD (1080P)" tvg-logo="http://fanc.tmsimg.com/assets/s109162_ll_h3_aa.png" group-title="UK | Other Sports",UK: Premier Sports 2 HD (1080P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696495.ts
+#EXTINF:-1 tvg-id="PRSP2UK" tvg-name="UK: Premier Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s109162_ll_h3_aa.png" group-title="UK | Other Sports",UK: Premier Sports 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696496.ts
+#EXTINF:-1 tvg-id="FRSPUK" tvg-name="UK: FreeSports HD (1080P)" tvg-logo="http://fanc.tmsimg.com/assets/s105525_ll_h3_aa.png" group-title="UK | Other Sports",UK: FreeSports HD (1080P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696497.ts
+#EXTINF:-1 tvg-id="FRSPUK" tvg-name="UK: FreeSports HD (720P)" tvg-logo="http://fanc.tmsimg.com/assets/s105525_ll_h3_aa.png" group-title="UK | Other Sports",UK: FreeSports HD (720P)
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696498.ts
+#EXTINF:-1 tvg-id="FRSPUK" tvg-name="UK: FreeSports" tvg-logo="http://fanc.tmsimg.com/assets/s105525_ll_h3_aa.png" group-title="UK | Other Sports",UK: FreeSports
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696499.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="UK: Motorsport TV" tvg-logo="" group-title="UK | Other Sports",UK: Motorsport TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696500.ts
+#EXTINF:-1 tvg-id="SportyStuff.uk" tvg-name="UK: Sporty Stuff HD" tvg-logo="" group-title="UK | Other Sports",UK: Sporty Stuff HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696501.ts
+#EXTINF:-1 tvg-id="GINXTV" tvg-name="UK: GINX eSports TV" tvg-logo="http://fanc.tmsimg.com/assets/s81971_ll_h3_aa.png" group-title="UK | Other Sports",UK: GINX eSports TV
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696502.ts
+#EXTINF:-1 tvg-id="NBCSN" tvg-name="US: NBCSN FHD" tvg-logo="http://fanc.tmsimg.com/assets/s15952_ll_h3_aa.png" group-title="UK | Other Sports",US: NBCSN FHD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696503.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1 HD" tvg-logo="" group-title="UK | Other Sports",MY: Astro SuperSport 1 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696504.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2 HD" tvg-logo="" group-title="UK | Other Sports",MY: Astro SuperSport 2 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696505.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3 HD" tvg-logo="" group-title="UK | Other Sports",MY: Astro SuperSport 3 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696506.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4 HD" tvg-logo="" group-title="UK | Other Sports",MY: Astro SuperSport 4 HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696507.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket HD" tvg-logo="" group-title="UK | Other Sports",MY: Astro Cricket HD
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696508.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Racing.com" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Racing.com
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696587.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Fox Sports 501
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696594.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Fox Sports 502
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696593.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Fox Sports 503
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696592.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Fox Sports 504
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696591.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 505" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Fox Sports 505
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696590.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 506" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Fox Sports 506
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696589.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 507" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: Fox Sports 507
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696588.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 1" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: ESPN 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696596.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: ESPN 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696595.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: beIN Sports 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696599.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: beIN Sports 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696598.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="" group-title="VIP | AU / NZ Sports",AU: beIN Sports 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696597.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 1" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696609.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 2" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696608.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 3" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696607.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 4" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696606.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 5" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696605.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 6" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 6
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696604.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 7" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 7
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696603.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 8" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 8
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696602.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 9" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport 9
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696601.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport SELECT" tvg-logo="" group-title="VIP | AU / NZ Sports",NZ SKY Sport SELECT
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/696600.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV GiNX" tvg-logo="" group-title="ZA | Super Sports",DSTV GiNX
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694404.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV Teletrack" tvg-logo="" group-title="ZA | Super Sports",DSTV Teletrack
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694403.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV WWE" tvg-logo="" group-title="ZA | Super Sports",DSTV WWE
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694402.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="" group-title="ZA | Super Sports",SuperSport Action
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694401.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Blitz" tvg-logo="" group-title="ZA | Super Sports",SuperSport Blitz
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694400.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="" group-title="ZA | Super Sports",SuperSport Cricket
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694399.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport ESPN" tvg-logo="" group-title="ZA | Super Sports",SuperSport ESPN
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694398.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport ESPN2" tvg-logo="" group-title="ZA | Super Sports",SuperSport ESPN2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694397.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Extra 1" tvg-logo="" group-title="ZA | Super Sports",SuperSport Extra 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694396.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Extra 2" tvg-logo="" group-title="ZA | Super Sports",SuperSport Extra 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694395.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Extra 3" tvg-logo="" group-title="ZA | Super Sports",SuperSport Extra 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694394.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Extra 4" tvg-logo="" group-title="ZA | Super Sports",SuperSport Extra 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694393.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Extra 5" tvg-logo="" group-title="ZA | Super Sports",SuperSport Extra 5
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694392.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="ZA | Super Sports",SuperSport Football
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694409.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football Plus" tvg-logo="" group-title="ZA | Super Sports",SuperSport Football Plus
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694391.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf" tvg-logo="" group-title="ZA | Super Sports",SuperSport Golf
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694390.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="" group-title="ZA | Super Sports",SuperSport Grandstand
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694389.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="ZA | Super Sports",SuperSport La Liga
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694410.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport MaXimo" tvg-logo="" group-title="ZA | Super Sports",SuperSport MaXimo
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694388.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport" tvg-logo="" group-title="ZA | Super Sports",SuperSport Motorsport
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694387.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play" tvg-logo="" group-title="ZA | Super Sports",SuperSport Play
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694386.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="ZA | Super Sports",SuperSport Premier League
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694411.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport PSL" tvg-logo="" group-title="ZA | Super Sports",SuperSport PSL
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694412.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="" group-title="ZA | Super Sports",SuperSport Rugby
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694385.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="ZA | Super Sports",SuperSport Tennis
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694384.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 1" tvg-logo="" group-title="ZA | Super Sports",SuperSport Variety 1
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694408.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 2" tvg-logo="" group-title="ZA | Super Sports",SuperSport Variety 2
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694407.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 3" tvg-logo="" group-title="ZA | Super Sports",SuperSport Variety 3
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694406.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4" tvg-logo="" group-title="ZA | Super Sports",SuperSport Variety 4
+http://thebestiptv.xyz:8880/stevencrellin@gmail.com/jx5ajHXu8A/694405.ts
